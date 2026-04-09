@@ -1,0 +1,34 @@
+# ─────────────────────────────────────────────────────────
+#  Local AI Reel Maker — Python Dependencies
+#  UPDATED: added Phase 4 (mediapipe, opencv-python)
+# ─────────────────────────────────────────────────────────
+
+# ── Phase 1 — Data Acquisition ─────────────────────────
+google-api-python-client>=2.120.0   # YouTube Data API v3
+yt-dlp>=2024.3.10                   # Audio/video download
+python-dotenv>=1.0.0                # .env file support
+
+# ── Phase 2 — Transcription & Audio Intelligence ────────
+openai-whisper>=20231117            # Local Whisper transcription
+librosa>=0.10.1                     # Audio analysis / RMS / dB
+soundfile>=0.12.1                   # Audio I/O backend for librosa
+
+# ── Phase 3 — Neural Scoring (LOCAL ML) ────────────────
+torch>=2.1.0                        # PyTorch (CPU build is fine)
+transformers>=4.38.0                # HuggingFace DistilBERT sentiment
+sentence-transformers>=2.6.0        # all-MiniLM-L6-v2 embeddings
+pandas>=2.1.0                       # DataFrame helpers
+scipy>=1.11.0                       # cosine_distance
+
+# ── Phase 4 — Computer Vision & Reframing ──────────────
+mediapipe>=0.10.9                   # BlazeFace face detection
+opencv-python>=4.9.0                # Video I/O, crop, resize, write
+
+# ── Phase 5 — Export (future) ──────────────────────────
+streamlit>=1.32.0                   # Dashboard UI
+ffmpeg-python>=0.2.0                # Final audio/video muxing
+
+# ── Utilities ──────────────────────────────────────────
+numpy>=1.26.0                       # Numerical ops (shared across phases)
+tqdm>=4.66.0                        # Progress bars
+requests>=2.31.0                    # HTTP helpers

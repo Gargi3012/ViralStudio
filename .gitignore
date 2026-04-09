@@ -1,0 +1,28 @@
+# Ignore Heavy ML Models
+local_ai_reel_maker/models/
+local_ai_reel_maker/huggingface/
+.cache/
+
+# Ignore Dynamic Workspace Data
+local_ai_reel_maker/data/
+local_ai_reel_maker/outputs/
+local_ai_reel_maker/logs/
+
+# Environment
+.env
+local_ai_reel_maker/.env
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual Environment
+.venv/
+venv/
+env/
