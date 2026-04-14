@@ -78,6 +78,7 @@ python main.py --url "https://youtube.com/watch?v=..." --top_n 3
 
 <img width="1887" height="861" alt="Screenshot 2026-04-14 194625" src="https://github.com/user-attachments/assets/3c4b5362-670a-483a-82c6-276dfe18d0b8" />
 <img width="1287" height="745" alt="Screenshot 2026-04-14 194526" src="https://github.com/user-attachments/assets/f09b4038-aa83-46da-9eb1-0680e57558ba" />
+<img width="1300" height="820" alt="Screenshot 2026-04-14 195144" src="https://github.com/user-attachments/assets/36246b9e-0868-498d-841a-c9180622841e" />
 <img width="1283" height="811" alt="Screenshot 2026-04-14 194535" src="https://github.com/user-attachments/assets/be885805-4930-42ab-be27-f55e7b63a0c8" />
 
 
