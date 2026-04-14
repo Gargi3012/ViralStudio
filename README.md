@@ -76,4 +76,7 @@ python main.py --url "https://youtube.com/watch?v=..." --top_n 3
 
 ---
 
-*© 2026 ViralStudio Pro — Enterprise Asset Engine*
+<img width="1887" height="861" alt="Screenshot 2026-04-14 194625" src="https://github.com/user-attachments/assets/3c4b5362-670a-483a-82c6-276dfe18d0b8" />
+<img width="1287" height="745" alt="Screenshot 2026-04-14 194526" src="https://github.com/user-attachments/assets/f09b4038-aa83-46da-9eb1-0680e57558ba" />
+<img width="1283" height="894" alt="Screenshot 2026-04-14 194535" src="https://github.com/user-attachments/assets/748d9071-303b-4569-98cf-ae248418fd42" />
+
